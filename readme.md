@@ -14,3 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Preview
+Haunted House(https://haunted-house-threejs-gamma.vercel.app).
